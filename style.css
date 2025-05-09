@@ -6,9 +6,9 @@
   padding: 20px;
 }
 .bday-heading {
-  color: white;
+  color: #ff4c33;
   font-family: "Roboto";
-  font-size: 28px;
+  font-size: 38px;
   font-weight: bold;
   padding: 24px;
 }
@@ -20,14 +20,14 @@
   margin: 24px;
 }
 .bigil-heading {
-  color: #0f0e46;
-  font-family: "Roboto";
+  color: #3336ff ;
+  font-family: "Fantasy";
   font-size: 30px;
   font-weight: bold;
 }
 .wishes-description {
-  color: #0c9fb2;
-  font-family: "Roboto";
+  color: ##33ff36;
+  font-family: "Cursive";
   font-size: 22px;
 }
 .detailed-view-card-text-container {
