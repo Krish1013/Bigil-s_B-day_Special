@@ -1,0 +1,40 @@
+
+.detailed-view-bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  height: auto;
+  background-size: cover;
+  padding: 20px;
+}
+.bday-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: bold;
+  padding: 24px;
+}
+.detailed-view-card-container {
+  background-color: white;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-radius: 10px;
+  margin: 24px;
+}
+.bigil-heading {
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+}
+.wishes-description {
+  color: #0c9fb2;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+.detailed-view-card-text-container {
+  padding: 16px;
+}  
+
+.video{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
